@@ -1,0 +1,19 @@
+body{
+background-color: cadetblue;
+}
+
+#title{
+    height: 100px;
+    width: 275px;
+    font-size: 30px;
+}
+
+#camera , #result{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+span{
+    font-size: 30px;
+}
